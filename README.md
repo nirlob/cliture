@@ -1,1 +1,2 @@
-"# cliture" 
+# Cliture
+## Common Linux structure
